@@ -1,0 +1,445 @@
+order_id,order_date,region,product,category,quantity,unit_price
+ORD-10211,2026/07/10,Midwest,Wireless Mouse,Accessories,1,25.68
+ORD-10094,07/10/2026,Northeast,  Wireless Mouse ,Accessories,1,$25.93
+ORD-10042,07/04/2026,West,Noise-Cancelling Headphones,Audio,2,
+ORD-10296,2026/07/25,Northeast,Laptop Stand,Accessories,1,
+ORD-10345,07/14/2026,Midwest,  Bluetooth Speaker ,Audio,1,61.35
+ORD-10266,24-Jul-2026,Midwest,  27in Monitor ,Displays,2,284.35
+ORD-10078,2026/07/07,Midwest,Bluetooth Speaker,Audio,2,58.77
+ORD-10306,2026-07-13,Southeast,27in Monitor,Displays,10,269.81
+ORD-10006,2026-07-19,Northeast,Wireless Mouse,Accessories,1,$24.06
+ORD-10403,2026/07/02,,Mechanical Keyboard,Accessories,1,
+ORD-10405,2026-07-21,West,MECHANICAL KEYBOARD,Accessories,1,88.26
+ORD-10049,07/12/2026,Midwest,Noise-Cancelling Headphones,Audio,1,209.77
+ORD-10269,21-Jul-2026,West,  Webcam 1080p ,Video,2,69.52
+ORD-10085,2026/07/25,West,  Bluetooth Speaker ,Audio,5,57.5
+ORD-10093,07/07/2026,Northeast,Wireless Mouse,Accessories,1,23.94
+ORD-10360,2026/07/24,West,Laptop Stand,Accessories,1,46.26
+ORD-10374,2026-07-26,Southeast,  27in Monitor ,Displays,3,291.02
+ORD-10223,2026-07-29,West,Mechanical Keyboard,Accessories,,$86.18
+ORD-10315,2026/07/21,Southeast,Noise-Cancelling Headphones,Audio,4,193.67
+ORD-10387,2026-07-27,Southeast,Mechanical Keyboard,Accessories,1,87.73
+ORD-10261,2026-07-13,Northeast,27IN MONITOR,Displays,3,277.76
+ORD-10002,2026-07-25,NORTHEAST,Webcam 1080p,Video,3,68.59
+ORD-10150,07/03/2026,Midwest,USB-C Hub,Accessories,1,40.29
+ORD-10283,07/09/2026,Southeast,Laptop Stand,Accessories,1,44.41
+ORD-10158,2026-07-03,Northeast,Bluetooth Speaker,Audio,5,57.04
+ORD-10061,20-Jul-2026,  Southeast ,Webcam 1080p,Video,2,
+ORD-10256,2026-07-04,Southeast,Noise-Cancelling Headphones,Audio,2,198.86
+ORD-10154,07/16/2026,Midwest,27in Monitor,Displays,1,284.51
+ORD-10368,2026/07/22,  Northeast ,Webcam 1080p,Video,3,66.41
+ORD-10343,2026-07-20,Northeast,  Bluetooth Speaker ,Audio,3,60.3
+ORD-10301,2026/07/08,West,Mechanical Keyboard,Accessories,4,85.96
+ORD-10332,2026-07-18,Southeast,Bluetooth Speaker,Audio,10,61.44
+ORD-10054,2026-07-05,NORTHEAST,Noise-Cancelling Headphones,Audio,3,190.8
+ORD-10096,07/05/2026,West,  Laptop Stand ,Accessories,1,46.94
+ORD-10036,07/27/2026,Southeast,Wireless Mouse,Accessories,1,$24.66
+ORD-10068,2026-07-02,Midwest,Webcam 1080p,Video,1,66.71
+ORD-10348,07-Jul-2026,West,Mechanical Keyboard,Accessories,1,87.06
+ORD-10060,2026-07-15,Midwest,MECHANICAL KEYBOARD,Accessories,2,$89.41
+ORD-10188,07/08/2026,Northeast,USB-C Hub,Accessories,1,
+ORD-10355,2026-07-28,West,Mechanical Keyboard,Accessories,1,90.58
+ORD-10101,26-Jul-2026,Southeast,Laptop Stand,Accessories,10,45.15
+ORD-10185,06-Jul-2026,Southeast,Wireless Mouse,Accessories,2,23.93
+ORD-10063,07/14/2026,west,NOISE-CANCELLING HEADPHONES,Audio,1,194.97
+ORD-10254,2026-07-29,Midwest,Wireless Mouse,Accessories,1,24.38
+ORD-10169,2026/07/25,Midwest,Bluetooth Speaker,Audio,1,57.32
+ORD-10183,07/06/2026,Midwest,bluetooth speaker,Audio,4,59.78
+ORD-10241,2026/07/01,Midwest,  Wireless Mouse ,Accessories,2,25.54
+ORD-10412,2026-07-24,  West ,Noise-Cancelling Headphones,Audio,3,$209.36
+ORD-10020,18-Jul-2026,Midwest,LAPTOP STAND,Accessories,3,46.04
+ORD-10039,2026/07/13,Southeast,Webcam 1080p,Video,1,66.91
+ORD-10109,07-Jul-2026,Southeast,Bluetooth Speaker,Audio,1,59.21
+ORD-10079,07/10/2026,West,27in Monitor,Displays,1,277.06
+ORD-10377,10-Jul-2026,,Noise-Cancelling Headphones,Audio,4,192.22
+ORD-10326,18-Jul-2026,Northeast,USB-C Hub,Accessories,1,40.03
+ORD-10191,2026/07/23,,27in Monitor,Displays,1,282.69
+ORD-10153,29-Jul-2026,Southeast,  Wireless Mouse ,Accessories,10,24.06
+ORD-10164,2026/07/03,Southeast,Bluetooth Speaker,Audio,10,61.77
+ORD-10397,21-Jul-2026,Midwest,mechanical keyboard,Accessories,3,87.64
+ORD-10232,10-Jul-2026,Northeast,Laptop Stand,Accessories,1,45.24
+ORD-10358,2026-07-27,Northeast,Noise-Cancelling Headphones,Audio,1,208.16
+ORD-10336,19-Jul-2026,West,Mechanical Keyboard,Accessories,2,88.77
+ORD-10417,2026/07/01,Midwest,USB-C Hub,Accessories,2,39.11
+ORD-10363,11-Jul-2026,WEST,  Wireless Mouse ,Accessories,1,24.58
+ORD-10034,06-Jul-2026,MIDWEST,27in Monitor,Displays,4,273.29
+ORD-10043,2026/07/05,West,Laptop Stand,Accessories,1,$45.65
+ORD-10116,07/15/2026,West,Mechanical Keyboard,Accessories,3,86.32
+ORD-10274,2026/07/27,Northeast,mechanical keyboard,Accessories,5,86.85
+ORD-10149,2026/07/25,Midwest,Webcam 1080p,Video,1,$68.48
+ORD-10144,2026/07/13,Midwest,Bluetooth Speaker,Audio,10,62.46
+ORD-10014,2026-07-02,Northeast,Mechanical Keyboard,Accessories,4,90.3
+ORD-10138,2026/07/16,West,27in Monitor,Displays,3,$291.25
+ORD-10105,07/21/2026,Midwest,Wireless Mouse,Accessories,2,25.92
+ORD-10201,22-Jul-2026,Midwest,Bluetooth Speaker,Audio,2,62.57
+ORD-10008,2026-07-07,Southeast,Bluetooth Speaker,Audio,1,58.57
+ORD-10024,2026-07-13,West,Laptop Stand,Accessories,1,46.43
+ORD-10333,2026/07/18,Southeast,USB-C Hub,Accessories,1,40.3
+ORD-10248,07/21/2026,West,Bluetooth Speaker,Audio,3,62.06
+ORD-10210,09-Jul-2026,Northeast,Wireless Mouse,Accessories,1,26.15
+ORD-10161,2026-07-19,midwest,Laptop Stand,Accessories,2,43.87
+ORD-10224,2026-07-23,West,27in Monitor,Displays,1,$268.73
+ORD-10203,07/04/2026,SOUTHEAST,Bluetooth Speaker,Audio,2,
+ORD-10379,07/15/2026,Southeast,27in monitor,Displays,2,268.17
+ORD-10127,23-Jul-2026,Northeast,Webcam 1080p,Video,10,70.96
+ORD-10073,08-Jul-2026,Southeast,Laptop Stand,Accessories,1,46.7
+ORD-10286,07/24/2026,Northeast,27in monitor,Displays,1,$269.2
+ORD-10012,2026/07/05,Southeast, noise-cancelling headphones ,Audio,1,$203.28
+ORD-10202,07/15/2026,West,27in Monitor,Displays,,283.67
+ORD-10136,07/27/2026,MIDWEST,  Laptop Stand ,Accessories,1,45.05
+ORD-10097,2026-07-26,Southeast,USB-C Hub,Accessories,1,40.6
+ORD-10050,07/01/2026,Southeast,27in Monitor,Displays,2,270.9
+ORD-10011,2026/07/15,Northeast,usb-c hub,Accessories,5,$37.89
+ORD-10167,18-Jul-2026,Northeast,Mechanical Keyboard,Accessories,1,91.15
+ORD-10181,07/06/2026,Northeast,Laptop Stand,Accessories,2,44.14
+ORD-10091,2026/07/25,,Bluetooth Speaker,Audio,2,60.46
+ORD-10271,2026-07-20,Northeast,Mechanical Keyboard,Accessories,2,87.59
+ORD-10322,2026/07/10,,Wireless Mouse,Accessories,1,24.76
+ORD-10264,2026-07-29,  Midwest ,USB-C Hub,Accessories,1,37.57
+ORD-10236,11-Jul-2026,West,bluetooth speaker,Audio,1,57.2
+ORD-10225,2026-07-12,Southeast,Bluetooth Speaker,Audio,2,$58.45
+ORD-10132,03-Jul-2026,  Northeast ,Wireless Mouse,Accessories,1,26.1
+ORD-10197,18-Jul-2026,Southeast,Noise-Cancelling Headphones,Audio,2,204.22
+ORD-10133,2026/07/24,Northeast,MECHANICAL KEYBOARD,Accessories,3,92.35
+ORD-10117,2026-07-15,West,Webcam 1080p,Video,2,$70.34
+ORD-10251,07/12/2026,Southeast,Bluetooth Speaker,Audio,1,59.33
+ORD-10146,2026/07/24,NORTHEAST,  27in Monitor ,Displays,5,285.08
+ORD-10132,03-Jul-2026,  Northeast ,Wireless Mouse,Accessories,1,26.1
+ORD-10369,2026-07-19,Midwest,USB-C Hub,Accessories,1,40.49
+ORD-10087,07/25/2026,Midwest,  Laptop Stand ,Accessories,3,46.29
+ORD-10229,2026/07/15,Northeast,Noise-Cancelling Headphones,Audio,3,201.25
+ORD-10409,2026/07/22,Midwest,27in Monitor,Displays,5,283.52
+ORD-10205,07/27/2026,West,27in Monitor,Displays,2,267.4
+ORD-10239,2026-07-12,NORTHEAST,MECHANICAL KEYBOARD,Accessories,2,88.97
+ORD-10174,2026-07-25,West,Laptop Stand,Accessories,1,45.08
+ORD-10328,07/12/2026,West,USB-C Hub,Accessories,1,37.68
+ORD-10389,2026-07-29,West,Wireless Mouse,Accessories,3,25.87
+ORD-10246,2026-07-31,MIDWEST,27in Monitor,Displays,2,272.72
+ORD-10375,24-Jul-2026,West,WIRELESS MOUSE,Accessories,5,25.78
+ORD-10207,2026/07/05,West,Mechanical Keyboard,Accessories,1,91.83
+ORD-10214,07/31/2026,Midwest,USB-C HUB,Accessories,2,41.33
+ORD-10048,2026-07-19,Midwest,27in Monitor,Displays,1,276.51
+ORD-10030,31-Jul-2026,Midwest,Noise-Cancelling Headphones,Audio,3,201.22
+ORD-10316,07/05/2026,Midwest,Wireless Mouse,Accessories,2,24.3
+ORD-10290,25-Jul-2026,Midwest,Wireless Mouse,Accessories,1,$25.17
+ORD-10275,2026-07-08,southeast,Laptop Stand,Accessories,3,$47.08
+ORD-10019,07/29/2026,Northeast,mechanical keyboard,Accessories,2,87.49
+ORD-10155,28-Jul-2026,  West ,Wireless Mouse,Accessories,1,24.47
+ORD-10245,02-Jul-2026,Southeast,27in Monitor,Displays,5,273.13
+ORD-10146,2026/07/24,NORTHEAST,  27in Monitor ,Displays,5,285.08
+ORD-10265,2026/07/16,Midwest,Wireless Mouse,Accessories,5,23.94
+ORD-10026,2026-07-20,West,Noise-Cancelling Headphones,Audio,2,203.11
+ORD-10180,2026/07/16,Midwest,Webcam 1080p,Video,1,$66.75
+ORD-10092,15-Jul-2026,NORTHEAST,Bluetooth Speaker,Audio,1,57.09
+ORD-10307,14-Jul-2026,Southeast,Bluetooth Speaker,Audio,2,57.45
+ORD-10189,07/05/2026,Midwest,USB-C Hub,Accessories,3,38.99
+ORD-10102,2026/07/07,Northeast,Mechanical Keyboard,Accessories,1,$86.85
+ORD-10217,13-Jul-2026,West,Mechanical Keyboard,Accessories,4,86.26
+ORD-10139,2026/07/10,West,Noise-Cancelling Headphones,Audio,2,195.11
+ORD-10386,2026/07/15,Midwest,Mechanical Keyboard,Accessories,1,87.08
+ORD-10325,07/15/2026,Southeast,Noise-Cancelling Headphones,Audio,1,207.56
+ORD-10396,2026/07/22,Southeast,Wireless Mouse,Accessories,1,24.39
+ORD-10252,27-Jul-2026,  West ,USB-C Hub,Accessories,2,40.65
+ORD-10278,11-Jul-2026,Northeast,Noise-Cancelling Headphones,Audio,1,200.65
+ORD-10152,07/29/2026,Southeast,USB-C HUB,Accessories,1,40.82
+ORD-10294,2026-07-23,West,Mechanical Keyboard,Accessories,2,87.64
+ORD-10281,2026/07/29,Southeast,wireless mouse,Accessories,1,23.9
+ORD-10250,07/27/2026,West,BLUETOOTH SPEAKER,Audio,1,58.98
+ORD-10378,07/22/2026,Southeast,27in Monitor,Displays,3,291.69
+ORD-10166,2026/07/08,West,laptop stand,Accessories,2,44.96
+ORD-10086,14-Jul-2026,Southeast,Wireless Mouse,Accessories,1,25.34
+ORD-10420,2026/07/06,West,USB-C HUB,Accessories,4,38.42
+ORD-10125,2026/07/27,Southeast,27in monitor,Displays,10,$292.86
+ORD-10029,07/02/2026,  West ,Noise-Cancelling Headphones,Audio,2,190.22
+ORD-10130,2026-07-04,SOUTHEAST,USB-C Hub,Accessories,2,39.85
+ORD-10177,07/30/2026,Southeast,USB-C Hub,Accessories,2,40.45
+ORD-10009,2026/07/23,West,Laptop Stand,Accessories,2,45.05
+ORD-10075,2026-07-20,West,WEBCAM 1080P,Video,1,66.59
+ORD-10388,2026-07-10,Midwest,27in monitor,Displays,2,274.01
+ORD-10295,07/02/2026,Northeast,Noise-Cancelling Headphones,Audio,2,$198.6
+ORD-10123,07/02/2026,MIDWEST,Noise-Cancelling Headphones,Audio,1,209.35
+ORD-10083,2026-07-14,Northeast,Mechanical Keyboard,Accessories,1,87.31
+ORD-10234,2026/07/16,Midwest,Wireless Mouse,Accessories,1,$25.79
+ORD-10148,07/10/2026,Northeast,Laptop Stand,Accessories,1,44.99
+ORD-10083,2026-07-14,Northeast, mechanical keyboard ,Accessories,1,87.31
+ORD-10151,2026-07-03,Southeast,  USB-C Hub ,Accessories,2,39.86
+ORD-10361,05-Jul-2026,West,Mechanical Keyboard,Accessories,4,87.91
+ORD-10418,07/29/2026,Midwest,bluetooth speaker,Audio,2,$59.34
+ORD-10120,2026-07-14,Southeast,USB-C Hub,Accessories,,39.54
+ORD-10171,2026/07/22,Northeast,USB-C Hub,Accessories,1,39.99
+ORD-10237,2026/07/12,Northeast,Mechanical Keyboard,Accessories,1,89.71
+ORD-10346,2026-07-08,West,  USB-C Hub ,Accessories,1,40.59
+ORD-10004,05-Jul-2026,Northeast,Webcam 1080p,Video,4,70.41
+ORD-10170,2026-07-10,Southeast,Bluetooth Speaker,Audio,1,62.15
+ORD-10106,2026-07-14,west,Wireless Mouse,Accessories,2,25.45
+ORD-10051,07/12/2026,Southeast,Noise-Cancelling Headphones,Audio,10,197.83
+ORD-10317,17-Jul-2026,Southeast,USB-C Hub,Accessories,1,40.23
+ORD-10062,25-Jul-2026,Southeast,Mechanical Keyboard,Accessories,2,85.62
+ORD-10206,2026/07/12,MIDWEST,Noise-Cancelling Headphones,Audio,2,204.51
+ORD-10067,29-Jul-2026,West,Mechanical Keyboard,Accessories,1,90.49
+ORD-10380,21-Jul-2026,Northeast,Bluetooth Speaker,Audio,1,60.77
+ORD-10009,2026/07/23,West, laptop stand ,Accessories,2,45.05
+ORD-10410,2026-07-09,Southeast,Mechanical Keyboard,Accessories,1,87.99
+ORD-10347,2026/07/28,Southeast,USB-C Hub,Accessories,2,38.79
+ORD-10407,2026/07/01,Midwest,Webcam 1080p,Video,3,65.93
+ORD-10231,2026-07-15,Northeast,Bluetooth Speaker,Audio,1,62.19
+ORD-10276,2026/07/08,Northeast,Wireless Mouse,Accessories,3,25.85
+ORD-10149,2026/07/25,Midwest,Webcam 1080p,Video,1,$68.48
+ORD-10349,2026/07/16,West,Bluetooth Speaker,Audio,1,57.12
+ORD-10035,07/12/2026,northeast,Bluetooth Speaker,Audio,3,62.36
+ORD-10330,03-Jul-2026,NORTHEAST,Laptop Stand,Accessories,1,42.86
+ORD-10100,2026/07/22,midwest,Laptop Stand,Accessories,1,43.88
+ORD-10318,2026/07/08,west,Webcam 1080p,Video,4,69.4
+ORD-10370,07/03/2026,Southeast,Webcam 1080p,Video,5,$72.32
+ORD-10196,05-Jul-2026,West,Noise-Cancelling Headphones,Audio,4,197.91
+ORD-10289,2026-07-05,West,USB-C Hub,Accessories,1,39.52
+ORD-10257,2026-07-09,Southeast,Mechanical Keyboard,Accessories,4,91.0
+ORD-10310,30-Jul-2026,  Northeast ,Noise-Cancelling Headphones,Audio,3,209.23
+ORD-10272,30-Jul-2026,west,Laptop Stand,Accessories,2,$44.51
+ORD-10287,2026-07-19,Midwest,USB-C Hub,Accessories,1,38.16
+ORD-10337,05-Jul-2026,Northeast,27in Monitor,Displays,,285.68
+ORD-10018,2026/07/10,WEST,Bluetooth Speaker,Audio,2,58.91
+ORD-10288,07/07/2026,West, usb-c hub ,Accessories,2,40.45
+ORD-10308,2026/07/14,Southeast,USB-C Hub,Accessories,1,39.59
+ORD-10056,07/24/2026,Midwest,Bluetooth Speaker,Audio,1,62.09
+ORD-10007,22-Jul-2026,West,Webcam 1080p,Video,2,71.96
+ORD-10032,07/10/2026,Northeast,  Mechanical Keyboard ,Accessories,1,91.06
+ORD-10284,2026-07-06,Midwest,Bluetooth Speaker,Audio,1,
+ORD-10037,2026-07-13,Midwest,Mechanical Keyboard,Accessories,1,87.23
+ORD-10259,2026/07/09,Northeast,Bluetooth Speaker,Audio,2,57.75
+ORD-10235,2026-07-24,Midwest,Laptop Stand,Accessories,3,43.03
+ORD-10052,26-Jul-2026,SOUTHEAST,Wireless Mouse,Accessories,2,23.83
+ORD-10159,13-Jul-2026,West,Laptop Stand,Accessories,1,43.21
+ORD-10028,07/31/2026,Northeast,USB-C Hub,Accessories,2,37.88
+ORD-10084,28-Jul-2026,SOUTHEAST,27in Monitor,Displays,3,$289.04
+ORD-10168,07/20/2026,Northeast,bluetooth speaker,Audio,2,59.49
+ORD-10329,28-Jul-2026,Midwest,Wireless Mouse,Accessories,2,26.18
+ORD-10273,07/27/2026,Midwest,Mechanical Keyboard,Accessories,,88.16
+ORD-10089,2026/07/07,Southeast,Laptop Stand,Accessories,3,46.23
+ORD-10280,22-Jul-2026,,Bluetooth Speaker,Audio,1,58.14
+ORD-10323,07/10/2026,  Northeast ,Webcam 1080p,Video,3,67.35
+ORD-10355,2026-07-28,West, mechanical keyboard ,Accessories,1,90.58
+ORD-10134,2026/07/14,Northeast,Mechanical Keyboard,Accessories,1,87.82
+ORD-10005,2026/07/14,West,Mechanical Keyboard,Accessories,2,91.23
+ORD-10200,23-Jul-2026,southeast,Webcam 1080p,Video,1,65.98
+ORD-10009,2026/07/23,West,Laptop Stand,Accessories,2,45.05
+ORD-10249,07/24/2026,Northeast,Noise-Cancelling Headphones,Audio,10,204.31
+ORD-10351,07/11/2026,Midwest,Webcam 1080p,Video,1,66.4
+ORD-10373,16-Jul-2026,Southeast,Laptop Stand,Accessories,3,45.07
+ORD-10260,2026-07-25,Southeast,Noise-Cancelling Headphones,Audio,1,199.11
+ORD-10413,07/30/2026,midwest,Wireless Mouse,Accessories,2,24.59
+ORD-10390,12-Jul-2026,West,  Noise-Cancelling Headphones ,Audio,1,196.78
+ORD-10140,2026/07/10,  West ,Webcam 1080p,Video,1,69.92
+ORD-10298,2026-07-05,Southeast,Bluetooth Speaker,Audio,4,56.95
+ORD-10331,27-Jul-2026,Southeast,wireless mouse,Accessories,1,24.39
+ORD-10208,2026/07/20,  Southeast ,Bluetooth Speaker,Audio,2,62.64
+ORD-10314,04-Jul-2026,Southeast,Webcam 1080p,Video,1,66.48
+ORD-10366,2026-07-18,Southeast,Webcam 1080p,Video,10,69.6
+ORD-10419,2026/07/19,West,Mechanical Keyboard,Accessories,1,91.69
+ORD-10357,18-Jul-2026,SOUTHEAST,USB-C Hub,Accessories,1,$39.51
+ORD-10394,14-Jul-2026,NORTHEAST,Mechanical Keyboard,Accessories,2,87.14
+ORD-10327,21-Jul-2026,Southeast,Wireless Mouse,Accessories,2,26.0
+ORD-10293,27-Jul-2026,Northeast,Webcam 1080p,Video,2,$65.81
+ORD-10057,07/04/2026,northeast,27in Monitor,Displays,3,274.92
+ORD-10059,04-Jul-2026,West,USB-C Hub,Accessories,3,$39.74
+ORD-10156,01-Jul-2026,Northeast,Wireless Mouse,Accessories,2,24.41
+ORD-10406,2026-07-16,West, 27in monitor ,Displays,10,272.55
+ORD-10135,2026-07-05,Midwest,  Wireless Mouse ,Accessories,1,23.74
+ORD-10268,2026-07-18,Northeast,BLUETOOTH SPEAKER,Audio,2,$60.52
+ORD-10209,2026/07/20,West,Wireless Mouse,Accessories,4,24.27
+ORD-10015,05-Jul-2026,West,USB-C Hub,Accessories,2,$38.34
+ORD-10406,2026-07-16,West,27in Monitor,Displays,10,272.55
+ORD-10335,09-Jul-2026,Southeast,Wireless Mouse,Accessories,5,25.24
+ORD-10385,20-Jul-2026,Southeast,USB-C Hub,Accessories,3,38.15
+ORD-10104,16-Jul-2026,  Southeast ,Laptop Stand,Accessories,10,46.52
+ORD-10299,2026/07/03,Southeast,Wireless Mouse,Accessories,3,25.97
+ORD-10147,07/06/2026,Northeast,  Wireless Mouse ,Accessories,3,$25.77
+ORD-10143,2026-07-10,Southeast,  Laptop Stand ,Accessories,1,45.44
+ORD-10385,20-Jul-2026,Southeast,USB-C Hub,Accessories,3,38.15
+ORD-10187,07/23/2026,Northeast,usb-c hub,Accessories,1,40.87
+ORD-10218,09-Jul-2026,Southeast,Wireless Mouse,Accessories,2,23.88
+ORD-10194,15-Jul-2026,,USB-C Hub,Accessories,2,38.05
+ORD-10186,2026-07-27,Northeast,Mechanical Keyboard,Accessories,2,86.53
+ORD-10162,28-Jul-2026,midwest,Noise-Cancelling Headphones,Audio,10,
+ORD-10227,2026-07-18,Southeast,USB-C Hub,Accessories,1,37.67
+ORD-10176,15-Jul-2026,Midwest,Webcam 1080p,Video,2,$72.43
+ORD-10147,07/06/2026,Northeast,  Wireless Mouse ,Accessories,3,$25.77
+ORD-10074,07/08/2026,WEST,MECHANICAL KEYBOARD,Accessories,2,91.23
+ORD-10393,2026-07-19,Southeast,Noise-Cancelling Headphones,Audio,1,201.31
+ORD-10013,22-Jul-2026,West,bluetooth speaker,Audio,1,57.76
+ORD-10055,2026/07/17,west,USB-C Hub,Accessories,1,40.75
+ORD-10121,2026-07-19,southeast,  USB-C Hub ,Accessories,3,$38.19
+ORD-10416,07-Jul-2026,southeast,Laptop Stand,Accessories,1,44.85
+ORD-10142,07/17/2026,West,27in Monitor,Displays,2,$287.03
+ORD-10400,2026/07/23,MIDWEST,Wireless Mouse,Accessories,1,$25.31
+ORD-10312,07/09/2026,Northeast,USB-C Hub,Accessories,3,40.79
+ORD-10356,2026-07-01,Southeast,USB-C Hub,Accessories,2,37.81
+ORD-10107,07/09/2026,Midwest,Mechanical Keyboard,Accessories,1,88.31
+ORD-10027,2026/07/06,Midwest,USB-C Hub,Accessories,2,$40.14
+ORD-10023,2026-07-11,West,Noise-Cancelling Headphones,Audio,3,202.13
+ORD-10090,2026-07-20,Midwest,27in Monitor,Displays,2,284.5
+ORD-10184,2026/07/03,Southeast,Mechanical Keyboard,Accessories,4,90.61
+ORD-10303,07/17/2026,Southeast,Laptop Stand,Accessories,2,$42.87
+ORD-10219,2026/07/27,,Webcam 1080p,Video,2,71.2
+ORD-10129,07/29/2026,West,Noise-Cancelling Headphones,Audio,3,$204.58
+ORD-10110,24-Jul-2026,Northeast,27in Monitor,Displays,4,285.71
+ORD-10226,02-Jul-2026,Southeast,USB-C Hub,Accessories,1,40.64
+ORD-10053,2026/07/22,Northeast,USB-C Hub,Accessories,1,40.06
+ORD-10415,2026-07-21,Northeast,Laptop Stand,Accessories,1,44.24
+ORD-10081,2026/07/28,Midwest,Noise-Cancelling Headphones,Audio,5,$194.87
+ORD-10171,2026/07/22,Northeast,USB-C Hub,Accessories,1,39.99
+ORD-10122,2026-07-12,Midwest,Mechanical Keyboard,Accessories,2,85.62
+ORD-10401,16-Jul-2026,Northeast,27in Monitor,Displays,1,273.38
+ORD-10221,07/29/2026,West,USB-C Hub,Accessories,1,40.61
+ORD-10103,07/10/2026,Southeast,  Mechanical Keyboard ,Accessories,3,85.35
+ORD-10238,2026/07/04,Midwest,  Wireless Mouse ,Accessories,10,23.79
+ORD-10279,2026-07-07,Northeast,Mechanical Keyboard,Accessories,4,89.0
+ORD-10017,06-Jul-2026,West,USB-C Hub,Accessories,2,38.26
+ORD-10404,2026-07-23,Northeast,Laptop Stand,Accessories,5,$44.92
+ORD-10372,07/09/2026,Southeast,Wireless Mouse,Accessories,2,$23.9
+ORD-10128,2026/07/01,Northeast,Webcam 1080p,Video,1,67.71
+ORD-10031,2026/07/07,Northeast,Laptop Stand,Accessories,1,44.6
+ORD-10172,2026/07/25,Midwest,Bluetooth Speaker,Audio,2,59.89
+ORD-10383,04-Jul-2026,Midwest,Bluetooth Speaker,Audio,2,62.39
+ORD-10082,27-Jul-2026,Northeast,Webcam 1080p,Video,1,$69.09
+ORD-10382,07/06/2026,NORTHEAST,Mechanical Keyboard,Accessories,1,$91.54
+ORD-10188,07/08/2026,Northeast,USB-C Hub,Accessories,1,
+ORD-10297,07-Jul-2026,,Laptop Stand,Accessories,1,45.91
+ORD-10414,2026-07-02,Northeast,Laptop Stand,Accessories,1,46.25
+ORD-10034,06-Jul-2026,MIDWEST,27in Monitor,Displays,4,273.29
+ORD-10004,05-Jul-2026,Northeast,Webcam 1080p,Video,4,70.41
+ORD-10204,2026-07-19,West,Laptop Stand,Accessories,1,43.73
+ORD-10309,2026/07/21,southeast,USB-C HUB,Accessories,2,40.43
+ORD-10277,2026/07/27,  West ,Bluetooth Speaker,Audio,10,60.72
+ORD-10040,07/05/2026,West,27in Monitor,Displays,1,280.86
+ORD-10371,07/13/2026,West,Bluetooth Speaker,Audio,1,58.52
+ORD-10098,2026/07/01,Northeast,Laptop Stand,Accessories,,43.62
+ORD-10199,2026/07/13,West,Webcam 1080p,Video,1,67.4
+ORD-10263,01-Jul-2026,  Northeast ,Mechanical Keyboard,Accessories,1,$90.71
+ORD-10069,07/18/2026,West,USB-C Hub,Accessories,2,39.83
+ORD-10319,2026/07/02,Northeast,Wireless Mouse,Accessories,2,25.26
+ORD-10212,18-Jul-2026,Northeast,27in Monitor,Displays,5,273.81
+ORD-10317,17-Jul-2026,Southeast,USB-C Hub,Accessories,1,40.23
+ORD-10088,07/28/2026,Southeast,Bluetooth Speaker,Audio,2,60.42
+ORD-10064,07/13/2026,,27in Monitor,Displays,3,279.82
+ORD-10072,2026/07/05,,Mechanical Keyboard,Accessories,1,87.93
+ORD-10288,07/07/2026,West,USB-C Hub,Accessories,2,40.45
+ORD-10182,30-Jul-2026,West,27in Monitor,Displays,2,282.83
+ORD-10292,07/01/2026,West,  USB-C Hub ,Accessories,1,39.0
+ORD-10141,2026/07/22,Midwest,  Wireless Mouse ,Accessories,1,23.79
+ORD-10038,2026/07/03,Midwest,Noise-Cancelling Headphones,Audio,1,209.5
+ORD-10179,07/16/2026,Southeast,laptop stand,Accessories,1,47.13
+ORD-10253,07/30/2026,West,  Wireless Mouse ,Accessories,5,$24.27
+ORD-10099,2026-07-07,Northeast,27in Monitor,Displays,1,267.64
+ORD-10160,2026-07-12,Southeast,USB-C Hub,Accessories,1,40.91
+ORD-10340,10-Jul-2026,West,NOISE-CANCELLING HEADPHONES,Audio,2,193.42
+ORD-10267,16-Jul-2026,Midwest,Mechanical Keyboard,Accessories,,87.06
+ORD-10342,16-Jul-2026,West,Webcam 1080p,Video,1,$68.63
+ORD-10215,07/10/2026,Midwest,WEBCAM 1080P,Video,1,67.37
+ORD-10399,17-Jul-2026,Midwest,Laptop Stand,Accessories,2,45.97
+ORD-10021,2026-07-25,Midwest,Wireless Mouse,Accessories,1,25.75
+ORD-10163,24-Jul-2026,West,Wireless Mouse,Accessories,1,24.65
+ORD-10193,07/26/2026,  West ,USB-C Hub,Accessories,1,38.81
+ORD-10350,30-Jul-2026,,Webcam 1080p,Video,1,70.2
+ORD-10046,07/09/2026,West,Wireless Mouse,Accessories,5,23.85
+ORD-10066,07/08/2026,Midwest,WIRELESS MOUSE,Accessories,1,24.4
+ORD-10411,2026/07/01,Southeast,WEBCAM 1080P,Video,1,69.46
+ORD-10359,2026/07/13,midwest,Wireless Mouse,Accessories,1,24.79
+ORD-10280,22-Jul-2026,,Bluetooth Speaker,Audio,1,58.14
+ORD-10131,2026/07/18,Midwest,27in Monitor,Displays,1,286.31
+ORD-10392,2026/07/04,northeast,  27in Monitor ,Displays,1,279.94
+ORD-10344,04-Jul-2026,WEST,27in Monitor,Displays,3,271.03
+ORD-10367,2026/07/23,West,USB-C Hub,Accessories,,$40.43
+ORD-10364,01-Jul-2026,Midwest,BLUETOOTH SPEAKER,Audio,1,$58.16
+ORD-10216,2026/07/25,West,27in Monitor,Displays,1,290.52
+ORD-10384,15-Jul-2026,Midwest,USB-C Hub,Accessories,2,39.41
+ORD-10408,2026/07/17,Southeast,mechanical keyboard,Accessories,3,92.61
+ORD-10242,2026-07-02,southeast,Bluetooth Speaker,Audio,5,62.1
+ORD-10058,21-Jul-2026,Midwest,USB-C Hub,Accessories,4,40.03
+ORD-10195,2026-07-04,west,27IN MONITOR,Displays,1,284.4
+ORD-10198,2026/07/20,Midwest,Wireless Mouse,Accessories,1,26.12
+ORD-10285,07/24/2026,southeast,USB-C Hub,Accessories,1,41.31
+ORD-10341,2026-07-30,Southeast,Mechanical Keyboard,Accessories,1,87.86
+ORD-10126,07/17/2026,midwest,wireless mouse,Accessories,3,25.53
+ORD-10381,07/16/2026,Southeast,27in Monitor,Displays,4,277.25
+ORD-10233,24-Jul-2026,Southeast,27in Monitor,Displays,5,289.33
+ORD-10244,31-Jul-2026,West,Webcam 1080p,Video,10,70.4
+ORD-10311,07/28/2026,Midwest,LAPTOP STAND,Accessories,4,45.2
+ORD-10190,20-Jul-2026,Southeast,Mechanical Keyboard,Accessories,5,89.58
+ORD-10313,2026-07-06,Northeast,Laptop Stand,Accessories,1,43.05
+ORD-10338,07/30/2026,Midwest,USB-C Hub,Accessories,1,39.34
+ORD-10114,2026-07-09,Southeast,Webcam 1080p,Video,2,$69.12
+ORD-10192,2026-07-17,Southeast,Webcam 1080p,Video,3,65.91
+ORD-10070,07/13/2026,Southeast,Bluetooth Speaker,Audio,2,59.6
+ORD-10353,07/05/2026,West,Webcam 1080p,Video,1,72.33
+ORD-10320,2026/07/15,Southeast,27in monitor,Displays,2,
+ORD-10352,16-Jul-2026,west,  Bluetooth Speaker ,Audio,1,57.74
+ORD-10111,2026-07-20,Midwest,Laptop Stand,Accessories,1,46.54
+ORD-10365,2026/07/31,  West ,27in Monitor,Displays,1,266.79
+ORD-10391,19-Jul-2026,Midwest,bluetooth speaker,Audio,1,59.15
+ORD-10381,07/16/2026,Southeast,27in Monitor,Displays,4,277.25
+ORD-10222,2026-07-30,,27in Monitor,Displays,5,276.24
+ORD-10112,2026/07/11,West,Webcam 1080p,Video,2,$66.01
+ORD-10119,2026/07/25,WEST,27in Monitor,Displays,1,267.46
+ORD-10324,07-Jul-2026,SOUTHEAST,Mechanical Keyboard,Accessories,1,91.3
+ORD-10240,2026-07-27,Midwest,Noise-Cancelling Headphones,Audio,2,201.5
+ORD-10016,2026/07/21,Southeast,Wireless Mouse,Accessories,2,$25.84
+ORD-10157,2026-07-14,Southeast,Noise-Cancelling Headphones,Audio,1,205.3
+ORD-10022,2026/07/28,  Northeast ,Bluetooth Speaker,Audio,4,61.61
+ORD-10115,2026-07-24,Northeast,Wireless Mouse,Accessories,2,$23.91
+ORD-10335,09-Jul-2026,Southeast,Wireless Mouse,Accessories,5,25.24
+ORD-10304,29-Jul-2026,Southeast,noise-cancelling headphones,Audio,1,
+ORD-10047,2026/07/02,Midwest,Laptop Stand,Accessories,2,43.35
+ORD-10012,2026/07/05,Southeast,Noise-Cancelling Headphones,Audio,1,$203.28
+ORD-10118,07/01/2026,  Northeast ,Mechanical Keyboard,Accessories,,
+ORD-10305,07/28/2026,,Laptop Stand,Accessories,,46.2
+ORD-10001,2026-07-11,Southeast,Mechanical Keyboard,Accessories,2,89.11
+ORD-10302,2026/07/05,West,Webcam 1080p,Video,2,72.34
+ORD-10108,07/06/2026,Southeast,Noise-Cancelling Headphones,Audio,1,206.04
+ORD-10178,07-Jul-2026,Southeast,Laptop Stand,Accessories,1,43.29
+ORD-10003,13-Jul-2026,West,27in Monitor,Displays,1,$292.39
+ORD-10033,07/13/2026,NORTHEAST,Bluetooth Speaker,Audio,2,62.77
+ORD-10044,2026/07/11,Midwest,Laptop Stand,Accessories,1,43.69
+ORD-10065,07/31/2026,Northeast,USB-C Hub,Accessories,2,39.75
+ORD-10228,2026/07/08,west,  Laptop Stand ,Accessories,1,43.78
+ORD-10255,25-Jul-2026,Southeast,usb-c hub,Accessories,2,41.17
+ORD-10045,07/11/2026,Southeast,USB-C HUB,Accessories,10,41.25
+ORD-10247,2026-07-02,West,mechanical keyboard,Accessories,1,
+ORD-10243,22-Jul-2026,Northeast,Bluetooth Speaker,Audio,2,59.87
+ORD-10262,2026-07-05,NORTHEAST,Noise-Cancelling Headphones,Audio,1,204.17
+ORD-10140,2026/07/10,  West ,Webcam 1080p,Video,1,69.92
+ORD-10376,12-Jul-2026,northeast,USB-C Hub,Accessories,1,40.03
+ORD-10165,2026/07/19,Northeast,Bluetooth Speaker,Audio,3,57.9
+ORD-10258,23-Jul-2026,west,Noise-Cancelling Headphones,Audio,2,196.77
+ORD-10402,07/28/2026,West,USB-C Hub,Accessories,2,41.13
+ORD-10362,2026/07/05,West,Noise-Cancelling Headphones,Audio,1,$206.47
+ORD-10321,22-Jul-2026,Midwest,Wireless Mouse,Accessories,1,24.87
+ORD-10339,2026/07/06,West,Wireless Mouse,Accessories,3,24.06
+ORD-10334,25-Jul-2026,Midwest,WIRELESS MOUSE,Accessories,1,25.72
+ORD-10282,07/15/2026,west,  USB-C Hub ,Accessories,2,$39.43
+ORD-10300,2026/07/18,Midwest,Bluetooth Speaker,Audio,4,62.49
+ORD-10175,07/01/2026,Southeast,USB-C Hub,Accessories,1,37.87
+ORD-10230,2026-07-29,West,Mechanical Keyboard,Accessories,2,91.41
+ORD-10173,2026/07/30,  West ,27in Monitor,Displays,4,289.85
+ORD-10095,2026-07-02,Midwest,Bluetooth Speaker,Audio,1,62.77
+ORD-10010,2026/07/15,West,Laptop Stand,Accessories,5,43.57
+ORD-10041,2026-07-08,Midwest,Laptop Stand,Accessories,,43.4
+ORD-10354,2026/07/07,west,Noise-Cancelling Headphones,Audio,1,209.02
+ORD-10416,07-Jul-2026,southeast, laptop stand ,Accessories,1,44.85
+ORD-10113,08-Jul-2026,Southeast,USB-C Hub,Accessories,5,$40.72
+ORD-10291,20-Jul-2026,Northeast,27in Monitor,Displays,2,265.81
+ORD-10213,27-Jul-2026,Northeast,Bluetooth Speaker,Audio,1,58.36
+ORD-10076,15-Jul-2026,Midwest,Laptop Stand,Accessories,3,46.03
+ORD-10137,2026-07-27,southeast,Mechanical Keyboard,Accessories,1,91.67
+ORD-10342,16-Jul-2026,West,Webcam 1080p,Video,1,$68.63
+ORD-10080,18-Jul-2026,Midwest,Noise-Cancelling Headphones,Audio,1,198.27
+ORD-10395,2026-07-01,Southeast,Laptop Stand,Accessories,3,45.9
+ORD-10145,07/18/2026,west,webcam 1080p,Video,2,65.86
+ORD-10124,07/07/2026,MIDWEST,Webcam 1080p,Video,1,70.55
+ORD-10071,07/15/2026,Southeast,USB-C Hub,Accessories,1,38.89
+ORD-10025,2026-07-25,midwest,  Laptop Stand ,Accessories,1,45.39
+ORD-10398,2026-07-27,Northeast,mechanical keyboard,Accessories,1,$90.64
+ORD-10011,2026/07/15,Northeast, usb-c hub ,Accessories,5,$37.89
+ORD-10077,2026/07/07,Southeast,Wireless Mouse,Accessories,1,25.49
+ORD-10220,2026-07-02,  Southeast ,Mechanical Keyboard,Accessories,1,86.33
+ORD-10270,2026/07/18,Midwest,Bluetooth Speaker,Audio,1,57.48
